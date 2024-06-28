@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.raffenio.spring_boot_docker.SpringBootDockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.076 s -- in com.raffenio.spring_boot_docker.SpringBootDockerApplicationTests
